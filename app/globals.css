@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/globals.css */
+@font-face {
+    font-family: hindi;
+    src: url('/Kruti_Dev_010.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+  body {
+    font-family: hindi;
+  }
+  
